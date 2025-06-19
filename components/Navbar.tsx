@@ -28,7 +28,7 @@ const Navbar = () => {
                 </SignedIn>
             </div>
         </nav>
-    )
-}
+    );
+};
 
-export default Navbar
+export default Navbar;
